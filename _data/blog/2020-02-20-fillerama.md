@@ -2,7 +2,7 @@
 template: BlogPost
 path: /fillerama
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
+title: Dummy Content from
 thumbnail: /assets/image-5.jpg
 ---
 #  Don't call me the Rotmeister.
