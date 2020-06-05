@@ -1,10 +1,10 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Life, Values and Tech",
+  "siteUrl": "https://lifevaluestech.netlify.app/",
+  "description": "A space of a socially conscious person who writes about tech, life, values and diversity & inclusion.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! Thanks for landing here ",
+    "description": "If you are going through a rough time right now, remember you are loved and appreciated no matter what. It's okay to feel the way you do :)"
   },
   "w3l_dom_key": "5e609f7a2d23fCF_Domain_verify"
 }
