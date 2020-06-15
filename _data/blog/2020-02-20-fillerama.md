@@ -3,7 +3,7 @@ template: BlogPost
 path: /fillerama
 date: 2020-02-20T14:59:36.571Z
 title: About me..
-thumbnail: /assets/aboutme.png
+thumbnail: /assets/aboutme.jpg
 ---
 
 Hi! Thanks for landing here. I am glad that you are interested in knowing me.
