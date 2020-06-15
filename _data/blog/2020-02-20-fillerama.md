@@ -2,49 +2,25 @@
 template: BlogPost
 path: /fillerama
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from
-thumbnail: /assets/image-5.jpg
+title: About me..
+thumbnail: /assets/aboutme.png
 ---
-#  Don't call me the Rotmeister.
 
-I am the Doctor, and you are the Daleks! You hit me with a cricket bat. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hit me with a cricket bat.
+Hi! Thanks for landing here. I am glad that you are interested in knowing me.
+If you wanna talk about life and tech in general .
+# Hit me up! I love to meet people virtually or on a coffee.
 
-You've swallowed a planet! No… It's a thing; it's like a plan, but with more greatness. You hate me; you want to kill me! Well, go on! **Kill me!** *KILL ME!* Sorry, checking all the water in this area; there's an escaped fish.
+I am Prashi from New Delhi, India. I love to time boxing my tasks super efficient. A naturally curious person, a good listener but my one of my beggest pet peeve is when someone tells me to be quite.
 
-## Did I mention we have comfy chairs?
+I'm interested in learning how things work and how they are build. I am always looking for hands on development and building solutions in innovative ways. Presently, I am pursuing masters in commputer science from Indira Gandhi Delhi Technical University for Women(IGDTUW). I volunteer in communities and really passionate promoting minorities in tech.
 
-No… It's a thing; it's like a plan, but with more greatness. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+# A short story about me.
 
-1. \*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do!
-2. Sorry, checking all the water in this area; there's an escaped fish.
-3. Father Christmas. Santa Claus. Or as I've always known him: Jeff.
+> I received my degree, Bachelor in Computer Science(Hons) from University of Delhi, India in 2018. I did C/C++ programming, insanely hooked and then I received my degree. At the time of graduation, I played tennis a lot and I really enjoyed studying about compilers and operating system because those are the subjects that teaches you how a line of code actually works and how a computer works, what is going behing that is giving you output.
+I was not sure whether tech is right for me or I am right for tech. Will I really fit in the tech industry? Is tech the male dominant society? I had lots of questions and I was not aware of tech communities and especially women in tech communities.
 
-### I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+> I decided to pursue my masters in computer science from Indira Gandhi Delhi Technical University for Women(IGDTUW), a women college where each woman is unique in her own way. Well, I believe that everyone has a different story and people do a lot of different things. IGDTUW is unique in its own way. Then, I got to know about so many different opportunities like Hackatons, GitHub campus experts, Microsoft Student Partners, Open source Development, meetups and community involvement. I started enjoying meetups and I love to volunteer in meetups because it's a place where you are super passionate about promoting women and minorities in tech and energising them. It's a place where you can seek help and help other people with the skills you have. ##TOGETHER WE RISE
 
-It's a fez. I wear a fez now. Fezes are cool. You know how I sometimes have really brilliant ideas? You know how I sometimes have really brilliant ideas? Sorry, checking all the water in this area; there's an escaped fish.
+# What do I do?
 
-* I am the last of my species, and I know how that weighs on the heart so don't lie to me!
-* You hit me with a cricket bat.
-* You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
-
-I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
-
-It's a fez. I wear a fez now. Fezes are cool. The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant.
-
-You know how I sometimes have really brilliant ideas? Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
-
-You've swallowed a planet! They're not aliens, they're Earth…liens! You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
-
-Father Christmas. Santa Claus. Or as I've always known him: Jeff. \*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! No… It's a thing; it's like a plan, but with more greatness.
-
-\*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! You've swallowed a planet! I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
-
-It's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? Saving the world with meals on wheels.
-
-You've swallowed a planet! Heh-haa! Super squeaky bum time! All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
-
-No… It's a thing; it's like a plan, but with more greatness. It's a fez. I wear a fez now. Fezes are cool. You hate me; you want to kill me! Well, go on! Kill me! KILL ME! Saving the world with meals on wheels.
-
-You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? Sorry, checking all the water in this area; there's an escaped fish. You hit me with a cricket bat.
-
-Did I mention we have comfy chairs? Stop talking, brain thinking. Hush. No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister. You know how I sometimes have really brilliant ideas?
+> I am recently introduced to Game Development(Unreal Engine and C++). I am working on that and developing my skills. My past experiences are in academic research, data science and machine learning. I am familiar with web development and I love to hack in hackathons. If you wanna collab in a project or in a hackathon. Feel free to ping me!
