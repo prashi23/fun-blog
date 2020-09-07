@@ -23,4 +23,4 @@ I was not sure whether tech is right for me or I am right for tech. Will I reall
 
 # What do I do?
 
-> I am recently introduced to Game Development(Unreal Engine and C++). I am working on that and developing my skills. My past experiences are in academic research, data science and machine learning. I am familiar with web development and I love to hack in hackathons. If you wanna collab in a project or in a hackathon. Feel free to ping me!
+> I am recently introduced to Game Development(Unreal Engine and C++). I am working on that and developing my skills. My past experiences are in academic research, data science and machine learning. I am familiar with web development and I love to hack in hackathons.[Frontend: HTML, CSS, JavaScript, NodeJS, React] [Backend: MySQL, Ruby on Rails, MongoDB]. I have mostly worked with Python, R, C/C++, JavaScript languages.  If you wanna collab in a project or in a hackathon. Feel free to ping me!

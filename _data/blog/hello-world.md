@@ -14,4 +14,5 @@ Hey! No question is senseless. Mind it
 I feel that if you don't ask questions it's like you are not involved and well you are just present and your brain is somewhere else. UNderstand it like this.
 I don't know what I am writing but get this.
 
-Questions is just a way to show someone that you are really interested and you are listening.
+Questions are just a way to show someone that you are really interested and you are listening. There is a difference between hearing and listening :)
+
