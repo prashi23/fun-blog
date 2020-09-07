@@ -2,40 +2,18 @@
 template: BlogPost
 path: /hello-world
 date: 2020-02-20T07:08:53.137Z
-title: Encounter in the tech world and let's talk about BIOS
+title: Google Code-In Mentor Experience
 thumbnail: /assets/BIOS.jpg
 metaDescription: Meta description for Hello World
 ---
 
-I am always been fascinated with how things are build and how things work. I am a person who is naturally curious and love to ask questions even though how senseless or how random are they.
+I had the opportunity to meet amazing technologists virtually through Google Code-In. I felt unconfident in the beginning(since it was my first remote mentoring experience). After several tasks, I grasped how other experienced mentors guided partcipants online. I slowly became more confident to give feedback to students on UX/UI design tasks. It is so amazing to see pre-university students who are passionate about learning oopen source technologies. They engage with other participants and mentors on GCI dashboard and work on design, coding, documentation and outreach tasks and then ask for feedback. 
 
-Hey! No question is senseless. Mind it
+The overall mentorship experience was a fun learning engaging process for me. There is a huge demand of such programs to help pre-university students who want to contribute to organization.
 
-I feel that if you don't ask questions it's like you are not involved and well you are just present and your brain is somewhere else. UNderstand it like this.
-I don't know what I am writing but get this.
+Nobody is born knowing how to create a pull request(#PR :p), implement features.
 
-Questions are just a way to show someone that you are really interested and you are listening. There is a difference between hearing and listening :)
-
-## Let's talk about BIOS and Kernel
-
-### First BIOS
-
-BIOS(Basic Input Output System), the first software program that runs when you start up your system. First time when you press the power button, your BIOS goes in action. BIOS Tells your OS what to do. 
-But what it does?
-It sets up all the params for Hardware that's installed inside of your computer. BIOS is stored on ROM chip on motherboard.
-BIOS can be modified if you choose to do so. BIOS changes to maximize performance and speed of their computer. However the average everyday person wiill want to stay clear od BIOS[ DON'T TOUCH IT HAHAHA ] 
-
-You may need to change BIOS when you install a piece of hardware inside your computer.
-
-## How to access BIOS?
-
-BY PRESSING DELETE KEY ON KEYBOARD
-
-for MAC- PRESS AND HOLD CMD KEY
-for HP- PRESS THE ESCAPE KEY
-for IBM - PRESS F1 KEY AFTER TURNING ON THE COMPUTER
-
-
+Let's learn together. :D 
 
 
 
